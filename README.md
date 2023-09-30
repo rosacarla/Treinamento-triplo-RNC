@@ -15,6 +15,9 @@ import numpy as np
 from tqdm import tqdm
 import matplotlib.pyplot as plt
 ```
+---  
+## 📊 Parâmetros numéricos     
+<img src='https://github.com/rosacarla/treinamento-triplo-de-RNC/blob/main/ajuste-parametros.png'>  
 
 ---  
 ## ©️ Licença  
